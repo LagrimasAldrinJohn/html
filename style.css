@@ -1,0 +1,33 @@
+*{
+    font-family: cursive
+}
+h1{
+    text-align: center;
+    color: red;
+}
+p{
+    position: relative;
+    left: 90px;
+}
+ul{
+    position: relative;
+    left: 90px;
+}
+.p1{
+    text-align: center;
+}
+h2{
+    position: relative;
+    left: 60px;
+    color: red;
+}
+.ul1{
+    float: inline-start 10px 
+    inline-end;
+}
+span{
+    font-weight: bold
+}
+hr{
+    border-style: dashed;
+}
